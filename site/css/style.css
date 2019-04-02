@@ -1,0 +1,77 @@
+h2{
+color:lime;
+}
+
+p{
+font-size:18px;
+}
+
+.container-index{
+padding-left:0px;
+paddiing-right:0px;
+border-left: 4px solid #ffffff;
+border-right: 4px solid #ffffff;
+}
+
+body{
+font-family:'Courier';
+background-color:blue;
+color:white;
+}
+
+.row{
+	
+}
+
+.col-md-6{
+margin-top:6px;
+margin-bottom:6px;
+}
+
+/* jumbrotron banner */
+.jumbotron {
+color:lime;
+text-align:left;
+background-image: url("../assets/codeIcon2.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.jumbotron h2 {
+font-size: 36px;
+}
+
+.jumbotron p {
+font-size: 24px;
+}
+
+/* Picture for pages upper-left */
+.left-image{
+text-align:center;
+max-height:80%;
+max-width:80%;
+vertical-align: middle;
+}
+
+/*** Portfolio pieces ***/
+.portfolio-thumbnail {
+  background-color: #fff;
+  border-color: #863ee3;
+  border-width: 2px;
+  width: 95%;
+
+}
+
+.portfolio-thumbnail:hover {
+  border-color: #ebd122;
+}
+
+.portfolio-title {
+  font-weight: bold;
+}
+
+.portfolio-description {
+}
+
+.portfolio-image {
+}
