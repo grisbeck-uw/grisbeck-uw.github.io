@@ -7,10 +7,11 @@ font-size:18px;
 }
 
 .container-index{
+	
 padding-left:0px;
-paddiing-right:0px;
-border-left: 4px solid #ffffff;
-border-right: 4px solid #ffffff;
+padding-right:0px;
+border: 4px solid #ffffff;
+
 }
 
 body{
