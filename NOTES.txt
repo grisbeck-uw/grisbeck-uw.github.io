@@ -15,3 +15,5 @@ col-xs-* for phones that are less than 768px wide;
 col-sm-* for tablets that are 768-991px;
 col-md-* for laptops and small monitors between 992-1199px; and
 col-lg-* for larger desktop monitors beyond 1200px.
+
+derpa derp
